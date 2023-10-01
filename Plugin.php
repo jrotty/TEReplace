@@ -6,7 +6,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * @package TEReplace
  * @author 泽泽
  * @version 1.3.0
- * @link http://blog.zezeshe.com
+ * @link https://github.com/jrotty/TEReplace
  */
 class TEReplace_Plugin implements Typecho_Plugin_Interface
 {
